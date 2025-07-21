@@ -15,7 +15,7 @@ public class Students {
     }
 
     // Method to check if the student is passing
-    public boolean isPassing() {
+    public void isPassing() {
         if (this.grade >= 50) {
             System.out.println(this.name + " is passing.");
         } else {
