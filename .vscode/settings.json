@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
-        "basics"
+        "basics",
+        "basicsClasses"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
