@@ -2,7 +2,8 @@
     "java.project.sourcePaths": [
         "basicsClasses",
         "basics",
-        "EncapsulationFieldsMethods"
+        "EncapsulationFieldsMethods",
+        "JCF"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
