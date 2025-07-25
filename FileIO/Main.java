@@ -40,6 +40,7 @@ public class Main {
                 case 5:
                     book.saveContactsToFile();
                     System.out.println("Goodbye!");
+                    scanner.close();
                     return;
                 default:
                     System.out.println("Invalid option.");
