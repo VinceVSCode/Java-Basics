@@ -1,0 +1,19 @@
+{
+  "id": "java-basics",
+  "title": "Java Basics",
+  "track": "software-developer",
+  "summary": "Java exercises from the basics to object-oriented programming: classes, encapsulation, inheritance, polymorphism, exceptions, collections and file input and output.",
+  "skills": [
+    "Java",
+    "OOP",
+    "Collections",
+    "File I/O"
+  ],
+  "repo": "https://github.com/VinceVSCode/Java-Basics",
+  "demo_url": null,
+  "thumbnail": null,
+  "demo_media": null,
+  "run_command": null,
+  "status": "first-attempt",
+  "version": null
+}
